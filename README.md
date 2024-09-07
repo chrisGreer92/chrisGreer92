@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chrisGreer92
-- 👀 I’m interested in ... Web and App development
+- 👀 I’m interested in ... App development
 - 🌱 I’m currently learning ... C, C++, Java, php, Javascript, kubernetes
 - 💞️ I’m looking to collaborate on ... Something interesting
 - 📫 How to reach me ... chris.i.greer@gmail.com
