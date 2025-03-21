@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chrisGreer92
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning C++, Java, Rust, OR tools, Docker/Kubernetes
+- 🌱 I’m currently learning Java, C++, Rust, OR tools, Docker/Kubernetes
 - 💞️ I’m looking to collaborate on something interesting
 - 📫 How to reach me chris.i.greer@gmail.com
 
