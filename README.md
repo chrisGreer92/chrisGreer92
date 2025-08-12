@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on something interesting
 - 📫 How to reach me chris.i.greer@gmail.com
 
-Currently studying computer science at University of Nottingham full time and working part time. 
+Recently graduated in Bsc Computer Science with First Class Honours from University of Nottingham.
 
-I'm looking to get into more comminity projects and make contributions while improving my coding skills and learning new things.
+Currently continuing to learn and build personal projects while searching for work.
+
+I'm also looking to get into more comminity projects and make contributions while improving my coding skills and learning new things.
